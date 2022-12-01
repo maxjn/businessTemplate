@@ -1,10 +1,13 @@
 ### simple Business Front Page
 
+[Live Project Link](https://maxjn-businesstemplate.pages.dev).
+
 ###### Technologies
 
 - HTML,Css
 - jQuery
 - Bootstrap grids for responsive
+- fontawesome
 
 ###### Features
 
